@@ -1,7 +1,7 @@
 
 #### Design Pattern using lambda function
 
-Implemented Stratergy Pattern from different mathematical operations like sumation, product and subtratction 
+Implemented Stratergy Pattern from different mathematical operations like summation, product and subtraction
 
 - The difference between the implementation using lambda function and without lambda function is that the code becomes less verbose which less in reducing bolierplate code. While using lambda expression we don’t need additional classes; simply specify additional behavior.
 
