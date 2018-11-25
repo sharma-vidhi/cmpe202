@@ -25,12 +25,10 @@
 --------------------------------------------------------------------------------------------------------------------
 ##### Diffrence between ![lab1](https://github.com/sharma-vidhi/cmpe202/tree/master/lab1) and ![lab10](https://github.com/sharma-vidhi/cmpe202/tree/master/lab10/features/workspace/GumballMachineV3)
 
-- 
+- Different behaviours according to the hierarchical situations can be easily implements using AOP concepts. No need for creating separate objects for differnt types of Gumball machines, using aspect and feature ide the same can be by creating new aspects and maintianing the hierarchical structure in the model file. Hence, it becomes easy to add new type of Gumball machine.
 
 
 
 
-
-
-Installation Steps: https://github.com/sharma-vidhi/cmpe202/tree/master/lab10/features/install
-Implementation Code: https://github.com/sharma-vidhi/cmpe202/tree/master/lab10/features/workspace/GumballMachineV3
+- Installation Steps: https://github.com/sharma-vidhi/cmpe202/tree/master/lab10/features/install
+- Implementation Code: https://github.com/sharma-vidhi/cmpe202/tree/master/lab10/features/workspace/GumballMachineV3
